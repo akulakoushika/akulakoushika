@@ -6,7 +6,7 @@
 - 🎓 BTech 1st Year - Learning Data Science & Tech Fundamentals
 - 🌱 Currently learning Git, GitHub & Version Control (ProfileX Program)
 - 💡 Curious learner - Exploring different fields in tech to find my passion
-- 📍 Hyderabad, India
+- 📍 Rajahmundry,Andhra Pradesh,India  
 
 #### 🛠️ Skills - Learning
 `Python` `Data Science` `Git` `GitHub` `Problem Solving`
